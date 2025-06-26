@@ -3,5 +3,45 @@
         "name": "Space Waves",
         "slug": "space-waves",
         "image": "/cache/data/image/game/space-waves/space-waves-game-m186x186.webp"
+    },
+    {
+        "name": "Geometry Dash",
+        "slug": "geometry-dash",
+        "image": "/cache/data/image/game/geometry-dash/geo-dash-2-copy-m186x186.webp"
+    },
+    {
+        "name": "Wave Dash",
+        "slug": "wave-dash",
+        "image": "/cache/data/image/game/wave-dash/wave-dash-m186x186.webp"
+    },
+    {
+        "name": "Wave Road",
+        "slug": "wave-road",
+        "image": "/cache/data/image/game/wave-road/wave-road-online-m186x186.webp"
+    },
+    {
+        "name": "Geometry Lite",
+        "slug": "geometry-lite",
+        "image": "/cache/data/image/game/geometry-lite/geometry-lite-m186x186.webp"
+    },
+    {
+        "name": "Geometry Dash 3D",
+        "slug": "geometry-dash-3d",
+        "image": "/cache/data/image/game/geometry-dash-3d/geometry-dash-3d-m186x186.webp"
+    },
+    {
+        "name": "Geometry Vibes",
+        "slug": "geometry-vibes",
+        "image": "/cache/data/image/game/geometry-vibes/geometry-vibes-m186x186.webp"
+    },
+    {
+        "name": "Arrow Wave",
+        "slug": "arrow-wave",
+        "image": "/cache/data/image/game/arrow-wave/arrow-wave-m186x186.webp"
+    },
+    {
+        "name": "Geometry Arrow",
+        "slug": "geometry-arrow",
+        "image": "/cache/data/image/game/geometry-arrow/geometry-arrow-m186x186.webp"
     }
 ]
